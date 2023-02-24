@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-import java.util.Scanner;
 class add 
 {
 public static void main(String[] args) 

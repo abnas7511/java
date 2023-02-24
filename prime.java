@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 import java.util.*;
 class prime {
     public static void main(String[] args) 

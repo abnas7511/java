@@ -1,6 +1,4 @@
 import java.util.*;
-
-import java.util.*;
 class fib 
 {
  public static void main(String[] args) 
